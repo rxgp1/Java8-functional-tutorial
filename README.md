@@ -1,14 +1,4 @@
----
-title: "Java 8 Functional Tutorial"
-date: 2020-01-23 12:36:13
-categories:
-- Programming
-- java
-tags:
-- Java8 Functional Programming 
-- Java8 Lambda
-thumbnail: /images/java8-expression.jpg
----
+
 Java 8 Functinal Programming Tutorial. 
 
 ---
