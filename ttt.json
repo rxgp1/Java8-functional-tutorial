@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "longitude": "126.90536582878455",
+    "latitude": "37.46478411252614",
+    "description": "This is the description of POI#1",
+    "altitude": "30",
+    "name": "POI#1-독산동 거리",
+    "path": "assets/car.wt3"
+  }
+]
