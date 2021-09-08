@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "longitude": "126.6781629",
+    "latitude": "37.6398722",
+    "description": "This is the description of POI#1",
+    "altitude": "20",
+    "name": "POI-김포2동 361-19",
+    "path": "assets/earth.wt3"
+  }
+]
