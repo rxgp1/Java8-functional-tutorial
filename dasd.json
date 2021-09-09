@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "longitude": "126.90732023461223",
+    "latitude": "37.4641741572936",
+    "description": "This is the description of POI#1",
+    "altitude": "500",
+    "name": "POI#1-금천 피트니스 센터",
+    "path": "assets/whale.wt3"
+  },
+  {
+    "id": "2",
+    "longitude": "126.90275721840689",
+    "latitude": "37.46460097536608",
+    "description": "This is the description of POI#2",
+    "altitude": "300",
+    "name": "POI#2-KFC 독산로",
+    "path": "assets/whale.wt3"
+  },
+  {
+    "id": "3",
+    "longitude": "126.90538641969447",
+    "latitude": "37.46477851001978",
+    "description": "This is the description of POI#3",
+    "altitude": "1000",
+    "name": "POI#3 - 집앞",
+    "path": "assets/whale.wt3"
+  },
+  {
+    "id": "4",
+    "longitude": "126.9713216802915",
+    "latitude": "37.4802952",
+    "description": "This is the description of POI#4",
+    "altitude": "30",
+    "name": "POI#4 - 꿈돌이어린이공원",
+    "path": "assets/officechair.wt3"
+  },
+  {
+    "id": "5",
+    "longitude": "126.970195",
+    "latitude": "37.478101",
+    "description": "This is the 토끼어린이공원 of POI#5",
+    "altitude": "30",
+    "name": "POI#5-토끼어린이공원",
+    "path": "assets/clock.wt3"
+  },
+  {
+    "id": "6",
+    "longitude": "126.969195",
+    "latitude": "37.4823505",
+    "description": "This is the 늘푸른어린이공원 of POI#6",
+    "altitude": "30",
+    "name": "POI#6 - 늘푸른어린이공원",
+    "path": "assets/table.wt3"
+  },
+  {
+    "id": "7",
+    "longitude": "126.9804718",
+    "latitude": "37.4769347",
+    "description": "This is the 친수공원 of POI#7",
+    "altitude": "30",
+    "name": "POI#7-친수공원",
+    "path": "assets/trainer.wt3"
+  },
+  {
+    "id": "8",
+    "longitude": "126.967251",
+    "latitude": "37.4740181",
+    "description": "This is the 밤골어린이공원 of POI#8",
+    "altitude": "30",
+    "name": "POI#8-밤골어린이공원",
+    "path": "assets/earth.wt3"
+  },
+  {
+    "id": "9",
+    "longitude": "126.9623682",
+    "latitude": "37.4790307",
+    "description": "This is the 장미어린이공원 of POI#9",
+    "altitude": "30",
+    "name": "POI#9-장미어린이공원",
+    "path": "assets/earth.wt3"
+  },
+  {
+    "id": "10",
+    "longitude": "126.9640503",
+    "latitude": "37.4732602",
+    "description": "This is the 교체어린이공원 of POI#10",
+    "altitude": "30",
+    "name": "POI#10-교체어린이공원",
+    "path": "assets/earth.wt3"
+  }
+]
