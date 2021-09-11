@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "longitude": "126.90732023461223",
+    "latitude": "37.4641741572936",
+    "description": "This is the description of POI#1",
+    "altitude": "330",
+    "name": "POI#1-금천 피트니스 센터",
+    "path": "assets/whale.wt3"
+  }
+]
