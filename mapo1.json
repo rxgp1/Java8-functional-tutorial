@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "longitude": "126.9463602",
+    "latitude": "37.5404326",
+    "description": "This is the description of POI#1",
+    "altitude": "20",
+    "name": "POI#1-마포 일진 빌딩",
+    "path": "assets/whale.wt3"
+  }
+]
