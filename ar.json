@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "longitude": "126.6791652",
+    "latitude": "37.6399922",
+    "description": "This is the description of POI#1",
+    "altitude": "40",
+    "name": "POI-김포2동 361-2",
+    "path": "assets/earth.wt3"
+  },
+  {
+    "id": "2",
+    "longitude": "126.9463602",
+    "latitude": "37.5404326",
+    "description": "This is the description of POI#1",
+    "altitude": "20",
+    "name": "POI#2-마포 일진 빌딩",
+    "path": "assets/whale.wt3"
+  }
+]
