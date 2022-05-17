@@ -1,0 +1,21 @@
+
+ [
+  {
+    "id": "1",
+    "longitude": "127.1984815",
+    "latitude": "37.5635689",
+    "description": "This is the description of POI#1",
+    "altitude": "20",
+    "name": "POI#1-Misa",
+    "path": "assets/whale.wt3"
+  },
+  {
+    "id": "2",
+    "longitude": "126.9463602",
+    "latitude": "37.5404326",
+    "description": "This is the description of POI#1",
+    "altitude": "20",
+    "name": "POI#2-마포 일진 빌딩",
+    "path": "assets/whale.wt3"
+  }
+]
