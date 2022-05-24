@@ -16,5 +16,14 @@
     "altitude": "20",
     "name": "POI#2-마포 일진 빌딩",
     "path": "assets/whale.wt3"
-  }
+  },
+  {
+    "id": "3",
+    "longitude": "127.0087161",
+    "latitude": "37.4884109",
+    "description": "This is the description of POI#3",
+    "altitude": "30",
+    "name": "서초 농협 근처",
+    "path": "assets/earth.wt3"
+  },
 ]
